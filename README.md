@@ -1,3 +1,4 @@
+## Roadmap
 Interacting with foundation models through APIs provides enhanced security, allows developers to opt-out of data training by default, offers greater control, and is typically more cost-effective while supporting more tokens.
 
 Currently, the Claude.ai client delivers a superior UI/UX compared to, for example, the ChatGPT client, although the quality of responses can still vary.
