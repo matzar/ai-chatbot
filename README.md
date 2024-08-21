@@ -1,6 +1,8 @@
 ## Future Development
 - Replace Vercel AI SDK with Amazon Bedrock
 
+## Changlog
+- Deplyed The app on the private domain with Vercel: [matzar.dev](https://matzar.dev/)
 ---
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
