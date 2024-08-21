@@ -33,7 +33,7 @@ export function EmptyScreen() {
           .
         </p>
         <p className="leading-normal text-muted-foreground">
-          It uses <code>gpt-4o-2024-05-13</code> model and{' '}
+          It uses <code>gpt-4o-mini</code> model and{' '}
           <ExternalLink href="https://vercel.com/blog/ai-sdk-3-generative-ui">
             React Server Components
           </ExternalLink>{' '}
