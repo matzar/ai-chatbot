@@ -3,7 +3,7 @@ Interacting with foundation models through APIs provides enhanced security, allo
 
 Currently, the Claude.ai client delivers a superior UI/UX compared to, for example, the ChatGPT client, although the quality of responses can still vary.
 
-This open-source project aims to make all leading foundation models accessible via a simple dropdown menu, enabling you to customize the UI/UX to suit your preferences.
+This open-source project aims to make all leading foundation models accessible via a simple dropdown menu, enabling you to customize the UI/UX to suit your preferences, deploy it under your own domain, and use it on a day-to-day basis.
 
 ## Future Development
 - Compare the cost, ease of implementation, and maintenance of Vercel AI SDK and Amazon Bedrock, and choose the best option.
