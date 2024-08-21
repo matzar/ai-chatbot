@@ -1,7 +1,9 @@
 ## Future Development
-- Replace Vercel AI SDK with Amazon Bedrock
+- Compare the cost for Vercel AI SDK and Amazon Bedrock, ease of implementation and maintanance and choose the best option.
+- Ability to select FMs from all leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon from a simple dropdown menu.
 
 ## Changlog
+### 20 Aug 24 
 - Deplyed The app on the private domain with Vercel: [matzar.dev](https://matzar.dev/)
 ---
 <a href="https://chat.vercel.ai/">
