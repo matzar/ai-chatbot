@@ -1,10 +1,17 @@
-## Future Development
-- Compare the cost for Vercel AI SDK and Amazon Bedrock, ease of implementation and maintanance and choose the best option.
-- Ability to select FMs from all leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon from a simple dropdown menu.
+Interacting with foundation models through APIs provides enhanced security, allows developers to opt-out of data training by default, offers greater control, and is typically more cost-effective while supporting more tokens.
 
-## Changlog
+Currently, the Claude.ai client delivers a superior UI/UX compared to, for example, the ChatGPT client, although the quality of responses can still vary.
+
+This open-source project aims to make all leading foundation models accessible via a simple dropdown menu, enabling you to customize the UI/UX to suit your preferences.
+
+## Future Development
+- Compare the cost, ease of implementation, and maintenance of Vercel AI SDK and Amazon Bedrock, and choose the best option.
+- Add the ability to select foundation models (FMs) from all leading AI companies, such as AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon, via a simple dropdown menu.
+
+## Changelog
 ### 20 Aug 24 
-- Deplyed The app on the private domain with Vercel: [matzar.dev](https://matzar.dev/)
+- Deployed the app on the private domain using Vercel: [matzar.dev](https://matzar.dev/)
+
 ---
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
