@@ -22,7 +22,8 @@
         "name": "next"
       }
     ],
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "target": "es2022"
   },
   "include": [
     "next-env.d.ts",
